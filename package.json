@@ -1,5 +1,5 @@
 {
-  "name": "fictional-octo-chainsaw",
+  "name": "stunning-rotary-phone",
   "version": "0.1.0",
   "dependencies": {
     "cors": "^2.8.5",
@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "node app.js"
+  },
+  "engines": {
+    "node": "16.0.0"
   }
 }
