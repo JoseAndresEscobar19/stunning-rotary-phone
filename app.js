@@ -24,7 +24,7 @@ const cors = require('cors');
 
 const app = express();
 const hostname  = 'localhost';
-const port      = 3035;
+const port      = process.env.PORT || 3035;
 
 const api = require('./api');
 
